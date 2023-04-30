@@ -1,0 +1,31 @@
+Selenium bir browser automation framework'üdür.
+Bir framework kütüphanelerin oluşturduğu bir yapıdır.
+Bir kütüphane ise özel bir şekilde paketlenmiş bir projedir.
+
+Selenium için en yaygın kullanım: UI testi (User Interface)
+API(Applicatin Programming Interface) Testi
+UI/UX Designer
+
+
+Selenium ile kod yazarken bir sayfadaki web elementler ile etkileşime geçmemiz gerekir.
+Web Element bir web sayfasında gördüğümüz her şeydir.(Button, input alanı, link, yazı)
+Bu elementlere bizler selenium webdriver kullanarak komutlar göndeririz.(Tıkla, yazı gönder)
+Selenium web sitesi içindeki bu elemntleri yakalamak için selectorler kullanır.(id, xpath, css)
+
+//*[@id="account-navigation-container"]/div/div[1]/div[1]/p ==> xpath selector
+
+Eğer FE geliştirme aşamasında id elementlere id verilirse test kodunu yazmak daha kolay olur.
+
+
+
+Yol Haritamız
+===========================================
+
+* Git
+* Java Tarihi ve Özellikleri
+* Temel Java(Sınıflar, değişkenler)
+* OOP
+* Web Nasıl çalışır(Backend, FE, Server, Client, http)
+* API Testi Giriş
+* Java ile API Testi(RestAssured, Junit)
+* Selenium Giriş
